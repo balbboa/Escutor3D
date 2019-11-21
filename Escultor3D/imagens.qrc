@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/undo.svg</file>
+        <file>images/redo.svg</file>
+        <file>images/circle.svg</file>
+        <file>images/circle2.svg</file>
+        <file>images/invert.svg</file>
+        <file>images/save.svg</file>
+        <file>images/3d.svg</file>
+        <file>images/3d2.svg</file>
+        <file>images/rubik.svg</file>
+        <file>images/rubik2.svg</file>
+        <file>images/ellipse.svg</file>
+        <file>images/ellipse2.svg</file>
+        <file>images/file.svg</file>
+	<file>images/print.png</file>
+    </qresource>
+</RCC>
