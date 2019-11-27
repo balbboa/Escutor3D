@@ -870,8 +870,8 @@ void Plotter::saveOFF()
 }
 void Plotter::saveAll()
 {
-    cube->writeVECT("/home/lufec/Escultor3D/file.vect");
-    cube->writeOFF("/home/lufec/Escultor3D/file.off");
+    cube->writeVECT("/root/Desktop/file.vect");
+    cube->writeOFF("/root/Desktop/file.off");
 }
 
 void Plotter::newSize()

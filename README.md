@@ -35,3 +35,4 @@ If `Qt` is installed, follow the steps below.
 2. Open the project in `Qt`.
 3. Run the `main.cpp`.
 
+ps.: Go to `plotter.cpp` file to change the output directory of the VECT and OFF files.
